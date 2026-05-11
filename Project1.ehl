@@ -1,0 +1,9 @@
+[Op Calls]
+Odbiornik[0]->itsBramaWjaz->CALL(get_pozycja(),get_pozycja())
+Odbiornik[0]->itsBramaWjaz->CALL(set_pozycja(-1),set_pozycja(int))
+Odbiornik[0]->itsBramaWjaz->CALL(set_pozycja(),set_pozycja(int))
+[Events]
+Odbiornik[0]->itsBramaWjaz->GEN(otwieranie())`BramaWjaz
+Odbiornik[0]->GEN(click())`Odbiornik
+Odbiornik[0]->itsBramaWjaz->GEN(zamykanie())`BramaWjaz
+[Breakpoints]

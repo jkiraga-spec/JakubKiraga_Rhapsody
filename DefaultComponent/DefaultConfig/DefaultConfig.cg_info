@@ -1,0 +1,50 @@
+I-Logix-RPY-Archive version 8.15.0 * 202411191641
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 6;
+	- value = "DefaultComponent/DefaultConfig/BramaWjaz.cpp" 5.11.2026::14:37:57
+	"DefaultComponent/DefaultConfig/BramaWjaz.h" 5.11.2026::14:37:57
+	"DefaultComponent/DefaultConfig/Default.cpp" 5.11.2026::14:27:12
+	"DefaultComponent/DefaultConfig/Default.h" 5.11.2026::14:27:12
+	"DefaultComponent/DefaultConfig/Odbiornik.cpp" 5.11.2026::14:37:57
+	"DefaultComponent/DefaultConfig/Odbiornik.h" 5.11.2026::14:37:57
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 2;
+	- value = "GUID 163f78a9-4e19-44d7-9ce4-fe3c5b06c28b" "GUID 3cefd701-f0f8-4d5d-ad0a-d0a6e50e7e65"
+	"GUID f305d682-fc98-4d00-a991-4db0c61f319e" "GUID 3cefd701-f0f8-4d5d-ad0a-d0a6e50e7e65"
+	
+}
+- size = 4;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Project1_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Odbiornik";
+	- _id = GUID 49d7fff9-5453-466f-baff-d9de68847b31;
+}
+- genTime = 5.11.2026::14:37:57;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = ".\\..\\..\\Project1_rpy\\DefaultComponent.cmpx";
+	- _name = "DefaultComponent\\DefaultConfig";
+	- _id = GUID 013713d9-8176-4146-ba16-b71bd45d1cc4;
+}
+- genTime = 5.11.2026::14:37:57;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Project1_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "BramaWjaz";
+	- _id = GUID d378f7f4-58cf-425d-95ea-a965a5c448ac;
+}
+- genTime = 5.11.2026::14:37:57;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Project1_rpy\\Default.sbsx";
+	- _name = "Default";
+	- _id = GUID 163f78a9-4e19-44d7-9ce4-fe3c5b06c28b;
+}
+- genTime = 5.11.2026::14:37:57;
+
